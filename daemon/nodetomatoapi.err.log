@@ -1,0 +1,242 @@
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:182:13)
+    at process.exit (internal/process/per_thread.js:168:15)
+    at monitor (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:182:13)
+    at process.exit (internal/process/per_thread.js:168:15)
+    at monitor (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\app.js:21
+mongoose.connect(dburl, { useNewUrlParser: true });
+                 ^
+
+ReferenceError: dburl is not defined
+    at Object.<anonymous> (G:\Projects\NodeJS\node-tomato-api\app.js:21:18)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)
+    at startup (internal/bootstrap/node.js:266:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)
+G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:182:13)
+    at process.exit (internal/process/per_thread.js:168:15)
+    at monitor (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:182:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:238:12)
+(node:45448) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+(node:45448) DeprecationWarning: collection.count is deprecated, and will be removed in a future version. Use collection.countDocuments or collection.estimatedDocumentCount instead
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:45448) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:45448) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:45572) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+(node:45572) DeprecationWarning: collection.count is deprecated, and will be removed in a future version. Use collection.countDocuments or collection.estimatedDocumentCount instead
+(node:45572) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45572) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:45572) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:45572) UnhandledPromiseRejectionWarning: ReferenceError: user is not defined
+    at videos.forEach.video (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:22:25)
+    at Array.forEach (<anonymous>)
+    at Promise.all.then.users (G:\Projects\NodeJS\node-tomato-api\server\api\video.js:21:28)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:45572) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:44564) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+(node:44564) DeprecationWarning: collection.count is deprecated, and will be removed in a future version. Use collection.countDocuments or collection.estimatedDocumentCount instead

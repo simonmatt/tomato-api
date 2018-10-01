@@ -1,0 +1,40 @@
+2018-10-01 05:13:24 - Starting C:\Program Files\nodejs\node.exe  --harmony G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js --file G:\Projects\NodeJS\node-tomato-api\app.js --log "node-tomato-api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-10-01 05:13:25 - Started 41952
+2018-10-01 05:13:47 - Starting C:\Program Files\nodejs\node.exe  --harmony G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js --file G:\Projects\NodeJS\node-tomato-api\app.js --log "node-tomato-api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-10-01 05:13:47 - Started 23120
+2018-10-01 05:14:53 - Starting C:\Program Files\nodejs\node.exe  --harmony G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js --file G:\Projects\NodeJS\node-tomato-api\app.js --log "node-tomato-api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-10-01 05:14:53 - Started 34144
+2018-10-01 05:28:31 - Starting C:\Program Files\nodejs\node.exe  --harmony G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js --file G:\Projects\NodeJS\node-tomato-api\app.js --log "node-tomato-api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-10-01 05:28:31 - Started 12336
+2018-10-01 05:51:27 - Stopping nodetomatoapi.exe
+2018-10-01 05:51:27 - ProcessKill 12336
+2018-10-01 05:51:27 - Found child process: 25832 Name: conhost.exe
+2018-10-01 05:51:27 - Found child process: 45448 Name: node.exe
+2018-10-01 05:51:28 - Stopping process 25832
+2018-10-01 05:51:28 - Send SIGINT 25832
+2018-10-01 05:51:28 - SIGINT to 25832 failed - Killing as fallback
+2018-10-01 05:51:28 - Stopping process 45448
+2018-10-01 05:51:28 - Send SIGINT 45448
+2018-10-01 05:51:28 - SIGINT to 45448 failed - Killing as fallback
+2018-10-01 05:51:28 - Stopping process 12336
+2018-10-01 05:51:28 - Send SIGINT 12336
+2018-10-01 05:51:28 - SIGINT to 12336 failed - Killing as fallback
+2018-10-01 05:51:28 - Finished nodetomatoapi.exe
+2018-10-01 05:54:25 - Starting C:\Program Files\nodejs\node.exe  --harmony G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js --file G:\Projects\NodeJS\node-tomato-api\app.js --log "node-tomato-api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-10-01 05:54:25 - Started 19640
+2018-10-01 05:55:07 - Stopping nodetomatoapi.exe
+2018-10-01 05:55:07 - ProcessKill 19640
+2018-10-01 05:55:07 - Found child process: 45152 Name: conhost.exe
+2018-10-01 05:55:07 - Found child process: 45572 Name: node.exe
+2018-10-01 05:55:07 - Stopping process 45152
+2018-10-01 05:55:08 - Send SIGINT 45152
+2018-10-01 05:55:08 - SIGINT to 45152 failed - Killing as fallback
+2018-10-01 05:55:08 - Stopping process 45572
+2018-10-01 05:55:08 - Send SIGINT 45572
+2018-10-01 05:55:08 - SIGINT to 45572 failed - Killing as fallback
+2018-10-01 05:55:08 - Stopping process 19640
+2018-10-01 05:55:08 - Send SIGINT 19640
+2018-10-01 05:55:08 - SIGINT to 19640 failed - Killing as fallback
+2018-10-01 05:55:08 - Finished nodetomatoapi.exe
+2018-10-01 06:16:35 - Starting C:\Program Files\nodejs\node.exe  --harmony G:\Projects\NodeJS\node-tomato-api\node_modules\node-windows\lib\wrapper.js --file G:\Projects\NodeJS\node-tomato-api\app.js --log "node-tomato-api wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-10-01 06:16:35 - Started 45836
